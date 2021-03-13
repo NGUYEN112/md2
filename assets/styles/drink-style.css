@@ -1,0 +1,26 @@
+.drinks {
+    float: left;
+    margin: 20px;
+    padding: 20px;
+    text-align: left;
+}
+
+.drinks img {
+    width: 200px;
+    height: 200px;
+}
+
+
+.text {
+    padding-top: 80px;
+}
+
+.poly-prod{
+    text-align:center;
+    padding:5px;
+}
+
+.poly-prod .panel-body img{
+    height: 200px;
+    max-width: 95%;
+}

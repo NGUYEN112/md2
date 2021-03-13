@@ -1,0 +1,38 @@
+.head-link{
+    height: 50px;
+    line-height: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    /* border: 1px solid #CDCDCD; */
+    /* background-color: #F5F5F5; */
+    margin-bottom:5px;
+    clear: both;
+    float: right;
+}
+
+.head-link a {
+background-color: gainsboro;
+color: black;
+border: gainsboro;
+font-size: 15px;
+}
+
+
+body {
+    background-image: url('/assets/images/img66.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+}
+
+label {
+    font-size: 17px;
+}
+
+.form-control {
+background-color: rgb(240, 221, 221);
+
+}
+
+
+
